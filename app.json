@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express",
+  "name": "Power4D - Sample",
+  "description": "A barebones Python OCR app using pytesseract",
   "repository": "https://github.com/budimaxwin/power4d",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
+  "logo": "https://power4d.pythonaywhere.com",
+  "keywords": ["power4d", "ocr", "gacor"]
 }
