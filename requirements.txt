@@ -1,0 +1,4 @@
+pytesseract
+PIL
+python-opencv
+pause
